@@ -2,4 +2,4 @@
 
 recipe application with custom recipe uploads
 
-Website: forkify-restaurant.netlify.app
+Link: forkify-restaurant.netlify.app
