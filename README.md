@@ -1,5 +1,6 @@
 # forkify project
+forkify website is site for getting your favourite food recipes at glance by search results.
+recipes will be loaded from json data on search.
 
-recipe application with custom recipe uploads
 
 Link: forkify-restaurant.netlify.app
